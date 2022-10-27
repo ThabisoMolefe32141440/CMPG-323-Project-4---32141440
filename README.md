@@ -10,9 +10,10 @@
    The program will click on Zone to open then the following page will open
    ![qwrtyuio](https://user-images.githubusercontent.com/110165029/198292795-0896968a-6232-4fed-8cb2-415c3517b7cb.PNG)
 
-   Then click on the plus symbol to create a new zone by reading the data form an excel sheet called "Zone", it will then edit the created  zone.Once all the zones are created and edited. It will the click on Category and the following page will open
-   New category data will be added by clicking on the plus symbol and edited by the program.Once its done it will click on Device and the following page will open
+   Then click on the plus symbol to create a new zone by reading the data form an excel sheet called "Zone", it will then edit the created  zone.Once all the zones are created and edited. 
+   It will the click on Category and the following page will open
+   New category data will be added by clicking on the plus symbol and edited by the program,by reading the data form an excel sheet called "Category".Once its done it will click on Device and the following page will open
    New device date wil be added and edited
-   Once its done creating by clicking on the plus symbol and editing all the device ,it will then delete then one by one by clicking on the trash symbol. Then move to zone to delete all the zone data one by one ,by clicking on the trash symbol.Then move to category to delete all the category data one by one,by clicking on the trash symbol. After deleting everything it will log out by clicking the log out icon
+   Once its done creating by clicking on the plus symbol and editing all the device,by reading the data form an excel sheet called "Device",it will then delete then one by one by clicking on the trash symbol. Then move to zone to delete all the zone data one by one ,by clicking on the trash symbol.Then move to category to delete all the category data one by one,by clicking on the trash symbol. After deleting everything it will log out by clicking the log out icon
    
    
