@@ -14,6 +14,7 @@
    It will the click on Category and the following page will open
    ![image](https://user-images.githubusercontent.com/110165029/198293679-530b0832-9538-4b68-8c5b-872f1b1497bd.png)
    New category data will be added by clicking on the plus symbol and edited by the program,by reading the data form an excel sheet called "Category".Once its done it will click on Device and the following page will open
+   ![asdfghjkl;](https://user-images.githubusercontent.com/110165029/198294064-baa500ee-eadc-478e-9eda-55deb525ed14.PNG)
    New device date wil be added and edited
    Once its done creating by clicking on the plus symbol and editing all the device,by reading the data form an excel sheet called "Device",it will then delete then one by one by clicking on the trash symbol. Then move to zone to delete all the zone data one by one ,by clicking on the trash symbol.Then move to category to delete all the category data one by one,by clicking on the trash symbol. After deleting everything it will log out by clicking the log out icon
    
